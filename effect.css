@@ -1,0 +1,12 @@
+p{
+    animation-name: animationone;
+    animation-duration: 5s;
+    animation-delay: 10s;
+    animation-iteration-count: 5;
+    color: blueviolet;
+}
+@keyframes animationone
+{
+    from{background-color: blue;}
+to {background-color:yellow;}
+}
